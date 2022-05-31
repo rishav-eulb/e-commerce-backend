@@ -20,4 +20,4 @@
 </br>
 
 
-**If you want see the host app ,you can click on this link:  http://159.65.154.244/**
+**If you want to see the host app ,you can click on this link:  http://159.65.154.244/**
